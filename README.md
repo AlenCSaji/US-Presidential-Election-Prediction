@@ -1,8 +1,8 @@
-# 🗳️ The Oval Office - US Presidential Election 2024 Prediction
+# The Oval Office - US Presidential Election 2024 Prediction
 
 **Team Cognify | Loyalist College**
 
-## 📌 Overview
+## Overview
 
 This project predicts the outcome of the **2024 US Presidential Election** using advanced machine learning models, interactive dashboards, and comprehensive data integration. Our model achieved an impressive **96% prediction accuracy**, with only a 10-seat difference in electoral results.
 
@@ -13,7 +13,7 @@ We built a full-stack solution comprising:
 - Web scraping with Selenium and BeautifulSoup
 - End-user accessible dashboards for analysis
 
-## 🎯 Objective
+## Objective
 
 To deliver an end-to-end election forecasting system that:
 - Accurately predicts presidential outcomes at the state level
